@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * Description: 'the program print the size of various data types'
- * Return: Always 0 (Success)
+ * Return: 0
  */
 
 int main(void)
