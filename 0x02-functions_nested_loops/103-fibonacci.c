@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - print the sum of even-numbered fibonnaci
+ * not exceeding 4000000 with a new line
+ * Return: void
+ */
 int main(void)
 {
 	int i;
