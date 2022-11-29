@@ -1,1 +1,1 @@
-My 0x06 pointers arrays strings
+My 0x07 pointers arrays strings
